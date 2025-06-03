@@ -1,125 +1,121 @@
-Folder PATH listing for volume New Volume
-Volume serial number is F864-04EE
-D:.
-|   tree.txt
-|   
+public/images:
 +---Tomato___Bacterial_spot
-|       0ab41c2e-c6fc-4ef1-9ffb-ce1b241d32be___GCREC_Bact.Sp 3426.JPG
-|       0ab9c705-f29e-45ac-b786-9549b3c38f16___GCREC_Bact.Sp 3223.JPG
-|       0ac8c80f-6d67-46ee-b662-8265d9df9183___GCREC_Bact.Sp 6115.JPG
-|       0ad66523-0fca-464d-a6e9-ca2d629e8058___GCREC_Bact.Sp 5945.JPG
-|       0ad88d7a-c14a-4ac9-8520-c11a0ade3a8f___UF.GRC_BS_Lab Leaf 0996.JPG
-|       0afe3bbd-b18b-4c70-8fbd-072844e742a2___GCREC_Bact.Sp 3434.JPG
-|       0b13b997-9957-4029-b2a4-ef4a046eb088___UF.GRC_BS_Lab Leaf 0595.JPG
-|       0c2ee2f1-e725-4031-96ea-57e3b8b626b3___GCREC_Bact.Sp 5645.JPG
-|       1fdbbbb4-fb2b-415b-a316-16688f21c4da___GCREC_Bact.Sp 3338.JPG
-|       1ff93f22-ad6e-4c74-a677-90e88d1b93df___GCREC_Bact.Sp 3532.JPG
+|       1.JPG
+|       10.JPG
+|       2.JPG
+|       3.JPG
+|       4.JPG
+|       5.JPG
+|       6.JPG
+|       7.JPG
+|       8.JPG
+|       9.JPG
 |       
 +---Tomato___Early_blight
-|       00c5c908-fc25-4710-a109-db143da23112___RS_Erly.B 7778.JPG
-|       00e7c4b2-3005-4558-9cfa-235e356cb7a8___RS_Erly.B 7844.JPG
-|       0a2726e0-3358-4a46-b6dc-563a5a9f2bdf___RS_Erly.B 7860.JPG
-|       0abc57ec-7f3b-482a-8579-21f3b2fb780b___RS_Erly.B 7609.JPG
-|       0ae44a6c-1213-4312-a11b-c7c5d4e585d0___RS_Erly.B 9442.JPG
-|       0b494c44-8cd0-4491-bdfd-8a354209c3ae___RS_Erly.B 9561.JPG
-|       0ba3d536-8732-4ea1-b3e1-a1be86e5dc6a___RS_Erly.B 9499.JPG
-|       0bb52721-51a6-4343-8c54-de15cedf8e5c___RS_Erly.B 7572.JPG
-|       0bd357fe-1e54-4c65-979c-e894e0b8a3aa___RS_Erly.B 8328.JPG
-|       0bed4d68-b82c-4e96-bbfe-e0fc10df01aa___RS_Erly.B 8301.JPG
+|       1.JPG
+|       10.JPG
+|       2.JPG
+|       3.JPG
+|       4.JPG
+|       5.JPG
+|       6.JPG
+|       7.JPG
+|       8.JPG
+|       9.JPG
 |       
 +---Tomato___healthy
-|       000bf685-b305-408b-91f4-37030f8e62db___GH_HL Leaf 308.1.JPG
-|       00bce074-967b-4d50-967a-31fdaa35e688___RS_HL 0223.JPG
-|       0a0d6a11-ddd6-4dac-8469-d5f65af5afca___RS_HL 0555.JPG
-|       0a205a11-1e64-49f7-93c2-ad59312b4f83___RS_HL 0334.JPG
-|       0a31e630-0d98-416b-b0e4-88a88aad1dc5___RS_HL 9653.JPG
-|       0a334ae6-bea3-4453-b200-85e082794d56___GH_HL Leaf 310.1.JPG
-|       0a86ddc0-4950-4efc-9260-0f16d4db046b___RS_HL 0469.JPG
-|       0a9986e6-b629-4ff5-8aab-7488ea9b935b___RS_HL 9704.JPG
-|       0aacdad5-c9b9-4309-96e3-0797bbed1375___RS_HL 9836.JPG
-|       0b5cfce2-38fd-4984-8926-2d2911c48490___RS_HL 9733.JPG
+|       1.JPG
+|       10.JPG
+|       2.JPG
+|       3.JPG
+|       4.JPG
+|       5.JPG
+|       6.JPG
+|       7.JPG
+|       8.JPG
+|       9.JPG
 |       
 +---Tomato___Late_blight
-|       00ce4c63-9913-4b16-898c-29f99acf0dc3___RS_Late.B 4982.JPG
-|       0a39aa48-3f94-4696-9e43-ff4a93529dc3___RS_Late.B 5103.JPG
-|       0a3f65fc-ef1c-4aed-b235-46bae4e5c0e7___GHLB2 Leaf 9065.JPG
-|       0a4b3cde-c83a-4c83-b037-010369738152___RS_Late.B 6985.JPG
-|       0a6203b9-ced0-4934-ae23-4a7d2e2e2fdd___RS_Late.B 6424.JPG
-|       0a8967d4-bb72-4fe4-8096-55fc57437557___RS_Late.B 6974.JPG
-|       0ab172fa-ac7b-4a3e-90c8-0708703eb3bb___RS_Late.B 5572.JPG
-|       0ab1cab4-a0c9-4323-9a64-cdafa4342a9b___GHLB2 Leaf 8918.JPG
-|       0ab391bd-e5ba-479c-919b-3aa9a94f66db___GHLB2 Leaf 8934.JPG
-|       0ac3df5b-d713-42ef-b0ad-20b5410237ad___RS_Late.B 4969.JPG
+|       1.JPG
+|       10.JPG
+|       2.JPG
+|       3.JPG
+|       4.JPG
+|       5.JPG
+|       6.JPG
+|       7.JPG
+|       8.JPG
+|       9.JPG
 |       
 +---Tomato___Leaf_Mold
-|       0a555f63-bf03-4958-8993-e1932b8dce9f___Crnl_L.Mold 9064.JPG
-|       0a9b3ff4-5343-4814-ac2c-fdb3613d4e4d___Crnl_L.Mold 6559.JPG
-|       0ac36661-a47d-47ff-8948-42edec033b87___Crnl_L.Mold 9127.JPG
-|       0adab1d4-5696-4cd8-8453-3931b70e856d___Crnl_L.Mold 8689.JPG
-|       0ae36892-5cb1-476e-8a51-b7fd8183a535___Crnl_L.Mold 6728.JPG
-|       0b3d5bf2-607f-4f95-bdcd-3542b8bd3244___Crnl_L.Mold 6654.JPG
-|       0b943ada-01a9-4ce0-a607-e799394856de___Crnl_L.Mold 7008.JPG
-|       0ba88812-fa4f-4602-bcec-c03cd7d0ba2b___Crnl_L.Mold 6990.JPG
-|       0bae0514-799a-479f-a407-ad763f458916___Crnl_L.Mold 8989.JPG
-|       0bb34c9b-ecf7-4fb1-8ee1-098bccdcdaae___Crnl_L.Mold 6522.JPG
+|       1.JPG
+|       10.JPG
+|       2.JPG
+|       3.JPG
+|       4.JPG
+|       5.JPG
+|       6.JPG
+|       7.JPG
+|       8.JPG
+|       9.JPG
 |       
 +---Tomato___Septoria_leaf_spot
-|       00f16858-f392-4d9e-ad9f-efab8049a13f___JR_Sept.L.S 8368.JPG
-|       0a146952-538a-41e5-a422-b5d50e91771e___Matt.S_CG 6079.JPG
-|       0a25f893-1b5f-4845-baa1-f68ac03d96ac___Matt.S_CG 7863.JPG
-|       0a5edec2-e297-4a25-86fc-78f03772c100___JR_Sept.L.S 8468.JPG
-|       0a68a294-30d1-4422-ab7e-a1909ec277f7___JR_Sept.L.S 8443.JPG
-|       0a70601b-8511-4a56-9562-c95c46372874___Matt.S_CG 1032.JPG
-|       0a76257e-6a78-459b-8f51-a266805121eb___Matt.S_CG 2527.JPG
-|       0a95b5b7-7bfb-4201-9320-dae33498081a___JR_Sept.L.S 2482.JPG
-|       0aa486df-97b6-4764-89a9-d193e16aabbb___Keller.St_CG 1931.JPG
-|       0ab271a7-765e-4675-8bfc-e249c0c86fdd___Keller.St_CG 1778.JPG
+|       1.JPG
+|       10.JPG
+|       2.JPG
+|       3.JPG
+|       4.JPG
+|       5.JPG
+|       6.JPG
+|       7.JPG
+|       8.JPG
+|       9.JPG
 |       
 +---Tomato___Spider_mites_Two_spotted_spider_mite
-|       0cc75e2e-9e6f-4b8e-b564-3840c9ecff58___Com.G_SpM_FL 1442.JPG
-|       0cee18fc-bbbd-40dd-8d73-93df072c09ea___Com.G_SpM_FL 8904.JPG
-|       0d5846df-f761-4d38-b10f-7bdb42b989b7___Com.G_SpM_FL 1484.JPG
-|       0d6a202a-046f-47b2-beec-cc6a1e7deae6___Com.G_SpM_FL 8937.JPG
-|       0d7c22dc-323c-4979-9dad-0fdbfdeb6e4e___Com.G_SpM_FL 9038.JPG
-|       0d831ad9-bc2a-4168-bbf2-6030f3f886f2___Com.G_SpM_FL 9419.JPG
-|       0d835caf-0069-4fa5-a022-c8cc7763189c___Com.G_SpM_FL 8917.JPG
-|       0d956449-8243-4229-b293-124461cc4940___Com.G_SpM_FL 9325.JPG
-|       0db2da38-8650-461a-a785-814cc442f44d___Com.G_SpM_FL 1378.JPG
-|       0db59779-c927-4b54-a258-73344972746b___Com.G_SpM_FL 1752.JPG
+|       1.JPG
+|       10.JPG
+|       2.JPG
+|       3.JPG
+|       4.JPG
+|       5.JPG
+|       6.JPG
+|       7.JPG
+|       8.JPG
+|       9.JPG
 |       
 +---Tomato___Target_Spot
-|       1a519d98-24e1-48bc-af8b-1e9c6ede95e8___Com.G_TgS_FL 9678.JPG
-|       1acc1730-96e3-476d-a25a-2c0de0a8df74___Com.G_TgS_FL 8228.JPG
-|       1bd1e7a3-614e-4ae4-8707-effd2b0e42fb___Com.G_TgS_FL 0688.JPG
-|       1c051bf2-9fb9-4d1f-b5c3-d813c0278aca___Com.G_TgS_FL 9683.JPG
-|       1c449341-6c92-4eeb-b83a-536d23ebbe96___Com.G_TgS_FL 8011.JPG
-|       1c4677d0-4d19-490a-8b7a-5894806174fb___Com.G_TgS_FL 0965.JPG
-|       1c980f09-7e37-4e57-96e5-d18783691134___Com.G_TgS_FL 9908.JPG
-|       1c986ad6-8c08-4b6e-ac23-184d3d8d84fa___Com.G_TgS_FL 8083.JPG
-|       1cc31c92-0fbd-488a-b0a2-ef25f985bf13___Com.G_TgS_FL 9840.JPG
-|       1cf38c9a-f005-455f-9101-a04239ccb9a4___Com.G_TgS_FL 0749.JPG
+|       1.JPG
+|       10.JPG
+|       2.JPG
+|       3.JPG
+|       4.JPG
+|       5.JPG
+|       6.JPG
+|       7.JPG
+|       8.JPG
+|       9.JPG
 |       
 +---Tomato___Tomato_mosaic_virus
-|       Tomato___Tomato_mosaic_virus_original_0befa341-0db3-49f4-b4fc-beeb05854bff___PSU_CG 2338.JPG_d6e0c182-bacb-48e0-8efa-091257d9d183.JPG
-|       Tomato___Tomato_mosaic_virus_original_0bf3eb4c-e2cd-4e72-8834-4fc045bd67ae___PSU_CG 2414.JPG_5bce0dc3-c06c-452f-af6e-5426b80a4daa.JPG
-|       Tomato___Tomato_mosaic_virus_original_0bf3eb4c-e2cd-4e72-8834-4fc045bd67ae___PSU_CG 2414.JPG_5ee31b96-9954-4ed3-beb1-b3cc9ad29b92.JPG
-|       Tomato___Tomato_mosaic_virus_original_0bf3eb4c-e2cd-4e72-8834-4fc045bd67ae___PSU_CG 2414.JPG_d237f142-470e-444d-b365-9afeac416193.JPG
-|       Tomato___Tomato_mosaic_virus_original_0bf3eb4c-e2cd-4e72-8834-4fc045bd67ae___PSU_CG 2414.JPG_dba8a4d8-c0d0-4609-a4ea-bd5419c0af12.JPG
-|       Tomato___Tomato_mosaic_virus_original_0c05f5bb-e38d-422f-8b1c-632d8c0d730c___PSU_CG 2133.JPG_20282520-3ef6-4c34-9384-1a7a39e66e1d.JPG
-|       Tomato___Tomato_mosaic_virus_original_0c05f5bb-e38d-422f-8b1c-632d8c0d730c___PSU_CG 2133.JPG_ba1f6c36-8774-44d5-9798-b5416aeb4954.JPG
-|       Tomato___Tomato_mosaic_virus_original_0c05f5bb-e38d-422f-8b1c-632d8c0d730c___PSU_CG 2133.JPG_ba6ba24c-dbd5-4d32-9560-5d64ea6544ce.JPG
-|       Tomato___Tomato_mosaic_virus_original_0c05f5bb-e38d-422f-8b1c-632d8c0d730c___PSU_CG 2133.JPG_e30fdf99-aba4-4d86-90db-1f28c5a51a03.JPG
-|       Tomato___Tomato_mosaic_virus_original_0c676b36-7985-42e8-b550-83e2b1c55535___PSU_CG 2177.JPG_b72fd309-ad02-4e4c-96a2-497e5061cb46.JPG
+|       1.JPG
+|       10.JPG
+|       2.JPG
+|       3.JPG
+|       4.JPG
+|       5.JPG
+|       6.JPG
+|       7.JPG
+|       8.JPG
+|       9.JPG
 |       
 \---Tomato___Tomato_Yellow_Leaf_Curl_Virus
-        1b1762b5-7aef-463c-ab99-bcc49246407a___UF.GRC_YLCV_Lab 01470.JPG
-        1b273914-1083-497e-a4fb-4a515ea53296___UF.GRC_YLCV_Lab 08552.JPG
-        1b55735a-c10e-4ea9-969d-8fb3fac8622f___UF.GRC_YLCV_Lab 02818.JPG
-        1b951a13-a6af-48f7-8d4c-fbdf2d4d0c7c___UF.GRC_YLCV_Lab 02208.JPG
-        1b977d41-3763-42c6-9d9b-e791db254f7e___YLCV_NREC 2716.JPG
-        1b984071-0529-4e15-9157-0b4b4a214d8f___UF.GRC_YLCV_Lab 08574.JPG
-        1c1e1887-c9f8-4498-8ed5-4b09931946e0___UF.GRC_YLCV_Lab 03400.JPG
-        1ca6f94a-9f5b-471c-8c72-58fab83514c7___UF.GRC_YLCV_Lab 01453.JPG
-        1cf49b23-0a6d-44b7-9a02-c7870d48527c___UF.GRC_YLCV_Lab 01496.JPG
-        1d1d75b8-9cf7-4df5-be43-47aedb745b6a___YLCV_GCREC 2000.JPG
+        1.JPG
+        10.JPG
+        2.JPG
+        3.JPG
+        4.JPG
+        5.JPG
+        6.JPG
+        7.JPG
+        8.JPG
+        9.JPG
         

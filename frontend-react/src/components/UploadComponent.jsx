@@ -1,15 +1,44 @@
-import React from "react";
+import React, { useState } from "react";
 
 const UploadComponent = ({ onFilesChange, isLoading }) => {
+  const [isDragOver, setIsDragOver] = useState(false);
+
   const handleFileChange = (e) => {
     const selectedFiles = Array.from(e.target.files);
     onFilesChange(selectedFiles);
   };
 
+  const handleDragOver = (e) => {
+    e.preventDefault();
+    setIsDragOver(true);
+  };
+
+  const handleDragLeave = (e) => {
+    e.preventDefault();
+    setIsDragOver(false);
+  };
+
+  const handleDrop = (e) => {
+    e.preventDefault();
+    setIsDragOver(false);
+    if (e.dataTransfer.files && e.dataTransfer.files.length > 0) {
+      const droppedFiles = Array.from(e.dataTransfer.files);
+      onFilesChange(droppedFiles);
+      // e.dataTransfer.clearData();
+    }
+  };
+
   return (
     <div className="bg-white p-6 rounded-lg shadow-md">
       <h2 className="text-xl font-semibold mb-4 text-gray-800">Unggah Gambar Daun Tomat</h2>
-      <div className="border-2 border-dashed border-gray-300 rounded-lg p-8 text-center">
+      <div
+        className={`border-2 border-dashed rounded-lg p-8 text-center ${
+          isDragOver ? "border-blue-500 bg-blue-50" : "border-gray-300"
+        }`}
+        onDragOver={handleDragOver}
+        onDragLeave={handleDragLeave}
+        onDrop={handleDrop}
+      >
         <input
           type="file"
           id="file-upload"
@@ -21,7 +50,9 @@ const UploadComponent = ({ onFilesChange, isLoading }) => {
         />
         <label
           htmlFor="file-upload"
-          className={`cursor-pointer flex flex-col items-center justify-center space-y-2 ${isLoading ? "opacity-50" : ""}`}
+          className={`cursor-pointer flex flex-col items-center justify-center space-y-2 ${
+            isLoading ? "opacity-50" : ""
+          }`}
         >
           <svg
             className="w-12 h-12 text-gray-400"
