@@ -18,7 +18,8 @@ IMG_SIZE = (224, 224)
 BATCH_SIZE = 32
 
 # Load model (prioritaskan .keras jika ingin format native Keras)
-MODEL_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "models", "best_efficientnet_tomato.keras")
+# MODEL_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "models", "best_efficientnet_tomato.keras")
+MODEL_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "models", "best_efficientnet_tomato_2161")
 model = load_model(MODEL_PATH)
 
 # Label kelas penyakit (contoh, sesuaikan dengan label model Anda)
