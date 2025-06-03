@@ -12,9 +12,29 @@ const diseaseExamples = [
     description: "Cincin konsentris pada daun dengan halo kuning, biasanya mulai dari daun bawah.",
   },
   {
+    name: "Sehat (Healthy)",
+    folder: "Tomato___healthy",
+    description: "Daun hijau segar tanpa bercak atau perubahan warna.",
+  },
+  {
     name: "Layu Akhir (Late Blight)",
     folder: "Tomato___Late_blight",
     description: "Lesi hijau-hitam tidak beraturan yang cepat membesar.",
+  },
+  {
+    name: "Jamur Daun (Leaf Mold)",
+    folder: "Tomato___Leaf_Mold",
+    description: "Bercak kuning di bagian atas daun dan jamur beludru ungu di bagian bawah.",
+  },
+  {
+    name: "Bercak Daun Septoria (Septoria Leaf Spot)",
+    folder: "Tomato___Septoria_leaf_spot",
+    description: "Bercak kecil bulat dengan pusat abu-abu dan pinggiran gelap.",
+  },
+  {
+    name: "Tungau Laba-Laba Dua Titik (Spider Mites)",
+    folder: "Tomato___Spider_mites_Two_spotted_spider_mite",
+    description: "Daun menguning, bintik-bintik kecil, dan terdapat jaring halus di permukaan daun.",
   },
   {
     name: "Bercak Target (Target Spot)",
@@ -22,16 +42,17 @@ const diseaseExamples = [
     description: "Bercak coklat dengan pola cincin menyerupai target.",
   },
   {
+    name: "Virus Mosaic Tomat (Tomato Mosaic Virus)",
+    folder: "Tomato___Tomato_mosaic_virus",
+    description: "Pola mosaik kuning-hijau pada daun, daun keriting dan pertumbuhan terhambat.",
+  },
+  {
     name: "Virus Kuning Daun Melengkung (Yellow Leaf Curl Virus)",
     folder: "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
     description: "Daun menguning dan melengkung ke atas, pertumbuhan terhambat.",
   },
-  {
-    name: "Sehat (Healthy)",
-    folder: "Tomato___healthy",
-    description: "Daun hijau segar tanpa bercak atau perubahan warna.",
-  },
 ];
+
 
 // Fungsi untuk memilih 3 angka acak unik dari 1-10
 const getRandomIndices = () => {
